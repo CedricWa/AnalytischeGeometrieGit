@@ -1,4 +1,4 @@
 
-public class punkt {
+public class punkt extends Rechenobjekt{
 
 }

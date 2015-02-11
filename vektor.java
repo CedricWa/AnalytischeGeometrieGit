@@ -1,4 +1,4 @@
 
-public class vektor {
+public class vektor extends Rechenobjekt{
 
 }
